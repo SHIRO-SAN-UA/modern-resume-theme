@@ -52,13 +52,7 @@ linkedin_username: serge-karpov-a82631203
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+Experienced QA engineer specializing in automation with a strong background in project management. Proven track record in leading successful teams and delivering technology solutions that drive business success. Proficient in TypeScript and JavaScript. Passionate about building user-centric applications and eager to take on challenging projects in innovative software companies.
 
 content:
   - title: Projects # Title for the section
