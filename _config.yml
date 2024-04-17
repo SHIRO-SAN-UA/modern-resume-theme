@@ -52,7 +52,7 @@ linkedin_username: serge-karpov-a82631203
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Experienced QA engineer specializing in automation with a strong background in project management. Proven track record in leading successful teams and delivering technology solutions that drive business success. Proficient in TypeScript and JavaScript. Passionate about building user-centric applications and eager to take on challenging projects in innovative software companies.
+  Experienced QA engineer specializing in automation with a strong background in project management. Proven track record in leading successful teams and delivering technology solutions that drive business success. Proficient in TypeScript and JavaScript. Passionate about building user-centric applications and eager to take on challenging projects in innovative software companies.
 
 content:
   - title: Projects # Title for the section
